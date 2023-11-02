@@ -1,0 +1,280 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+header{
+    width: 205vh;
+    height: 87vh;
+    background-color: #F7C7B9;
+}
+
+.topo-site {
+    display: flex;
+  }
+  
+.topo-site p, ul {
+    flex: 1;
+  }
+
+.topo-site p{
+    color: #161212;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin-left: 20vh;
+    display: flex;
+    margin-top: 22px;
+}
+
+ul {
+    display: flex;
+    margin-left: 85vh;
+    gap: 45px; /* Define o espaçamento entre os itens */
+    list-style: none;
+  }
+  
+
+li{
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 19px;
+
+}
+
+.topo-site img{
+    float: left;
+    margin-left: 112px;
+    margin-top: 22px;
+}
+
+.container h1{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 52px;
+    margin-left: 112px;
+    margin-top: 90px;
+    height: 104px;
+}
+
+.container p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 112px;
+    margin-top: 30px;
+    height: 48px;
+}
+
+.container img{
+    margin-left: 112px;
+    margin-top: 20px;
+}
+
+.imagem img{
+    margin-left: 726px;
+    margin-top: -300px;
+}
+
+/*MAIN*/
+main{
+    
+    width: 205vh;
+    height: 90vh;
+    background-color: white;
+}
+
+.main h1{
+   color: #161212;
+   font-weight: 600;
+   font-size: 48px;
+   line-height: 50px;
+   margin-left: 79vh;
+   margin-top: 50px;
+   height: 72px;
+   width: 266px;
+}
+
+.main p{
+    margin-top: -29px;
+    margin-right: 39px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.presente{
+    width: auto;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 97px;
+}
+
+.sino{
+    width: auto;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 107px;
+}
+
+ .doces{
+    width: auto;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 105px;
+}
+
+.amor{
+    width: auto;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 130px;
+}
+
+.descricao p{
+    color: #161212;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 20px;
+    height: 30px
+}
+
+.presentes{
+    width: 99px;
+    height: 30px;
+    margin-top: 106px;
+    margin-left: 145px
+}
+
+.enfeites{
+    width: 99px;
+    height: 30px;
+    margin-top: 106px;
+    margin-left: 172px
+}
+
+.doce{
+    height: 30px;
+    margin-top: 106px;
+    margin-left: 200px
+}
+
+.love{
+    height: 30px;
+    margin-top: 106px;
+    margin-left: 189px
+}
+
+.text h1 {
+    color: #161212;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    line-height: 27px;
+
+}
+
+#preset{
+    width: 225px;
+    margin-top: -18px;
+    margin-left: 82px
+}
+
+ #decor {
+    margin-top: -40px;
+    margin-left: 65px
+}
+
+#sugar{
+    
+    margin-top: -18px;
+    margin-left: 70px
+}
+
+#sentiment{
+    margin-top: -18px;
+    margin-left: 40px
+}
+
+/*FOOTER*/
+
+footer{
+    width: 205vh;
+    height: 87vh;
+    background-color: #F7C7B9;
+}
+
+.shared{
+    width: 400px;
+    height: 400px;
+    top: 1351px;
+    left: 112px;
+    margin-top: 79px;
+    margin-left: 97px;
+}
+
+.container-footer{
+    display: flex;
+    align-items: center;
+}
+
+.container-footer h1{
+    display: inline-block;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 50px;
+    margin-left: 187px;
+    height: 164px;
+    
+}
+
+
+.container-footer img{
+    display: inline-block;
+    margin-left: 76px;
+    margin-top: 100px;
+    margin-right: 10px;
+}
+
+.footer p{
+    color: #161212;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 680px;
+    display: flex;
+    margin-top: -202px;
+    align-items: center;
+
+}
+
+.footer img{
+    margin-left: 680px ;
+}
+
+.fim-site {
+    display: flex;
+  }
+  
+.fim-site p, ul {
+    flex: 1;
+  }
+
+.fim-site p{
+    color: #161212;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin-left: 20vh;
+    display: flex;
+    margin-top: 170px;
+}
+
+.fim-site img{
+    float: left;
+    margin-left: 112px;
+    margin-top: 170px;
+}
